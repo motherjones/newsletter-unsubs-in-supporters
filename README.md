@@ -3,7 +3,7 @@
 
 To use the script, please follow the directions:
 
-1. Download the unsubscribes from all newsletter lists from our ESP (in this case, Maropost).
+1. Download the unsubscribes from all newsletter lists (not the DNM list, which is the global unsubs and we cannot use any of those emails. Each newsletter list keeps its own unsubscriber information). from our ESP (in this case, Maropost).
 2. If files are zipped, unzip them and name them in an identifiable manner.
 3. Download the subscribers from our supporters list (Fundraising and Offers).
 4. If file is zipped, unzip and name it "supporters.csv". The file has to have that name.
